@@ -10,11 +10,11 @@ The assessment covers:
 - implementation strategy recommendations
 - an expert evaluation survey
 
-## Live website
+## GitHub Pages
 
-After GitHub Pages deployment, the website is available at:
-
-<https://jackzhao61725-dotcom.github.io/digital-twin-maturity-assessment/>
+The repository includes a GitHub Actions workflow for optional deployment to
+GitHub Pages. Enable Pages in the repository settings and select GitHub Actions
+as the deployment source to use it.
 
 ## Project structure
 
